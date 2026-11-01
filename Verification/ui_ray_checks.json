@@ -1,0 +1,23 @@
+{
+    "passed": true,
+    "synthetic_poses_and_trigger": true,
+    "hardware_tested": false,
+    "failure": "",
+    "checks": [
+        "Ray hits HINGED (actual: HINGED)",
+        "Trigger reaches tracked UI model: HINGED",
+        "Left ray clicks hinged preset through UI events",
+        "Ray hits TRAY (actual: TRAY)",
+        "Trigger reaches tracked UI model: TRAY",
+        "Right ray clicks tray preset through UI events",
+        "Ray hits WIDTH slider (actual: Fill)",
+        "Ray pointer-down changes width slider",
+        "Held ray drag changes width continuously",
+        "Ray hits FIT + ASSIST (actual: FIT + ASSIST)",
+        "Trigger reaches tracked UI model: FIT + ASSIST",
+        "Left ray switches panel page",
+        "Ray hits DESIGN (actual: DESIGN)",
+        "Trigger reaches tracked UI model: DESIGN",
+        "Right ray returns to design page"
+    ]
+}

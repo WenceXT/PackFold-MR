@@ -1,0 +1,7 @@
+{
+  "passed": false,
+  "synthetic_poses_and_trigger": true,
+  "hardware_tested": false,
+  "failure": "Ray hits HINGED (actual: none). Local absolute stack paths omitted from this public report.",
+  "checks": []
+}

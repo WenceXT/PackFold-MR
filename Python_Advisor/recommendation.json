@@ -1,0 +1,9 @@
+{
+  "schema": "packfold.v1",
+  "structure": "hinged_lid",
+  "width_mm": 180,
+  "depth_mm": 120,
+  "height_mm": 70,
+  "source": "rule_based_fallback (no AI model called)",
+  "rationale": "Added 10 mm side clearance and 15 mm vertical clearance. Hinged lid selected for fragile/reusable use; otherwise open tray. Geometry proposal only; strength is not evaluated."
+}
