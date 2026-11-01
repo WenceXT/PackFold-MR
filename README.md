@@ -8,11 +8,9 @@ Design a box at real-world scale, inspect it in passthrough, adjust its dimensio
 
 ## Real-device demonstration
 
-> **Coming soon — Quest 3 demonstration video to be uploaded.**
+> **The Quest 3 demonstration video will be uploaded on the afternoon of November 2, 2026 (Hong Kong time).**
 >
 > This section is reserved for a genuine headset recording showing passthrough placement, controller interaction, box editing, folding, opening, and export. No real-device demonstration video is included yet.
-
-[Demo upload location and recording checklist](docs/demo/README.md)
 
 ## What it does
 
