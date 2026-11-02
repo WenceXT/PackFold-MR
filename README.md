@@ -8,9 +8,9 @@ Design a box at real-world scale, inspect it in passthrough, adjust its dimensio
 
 ## Real-device demonstration
 
-> **The Quest 3 demonstration video will be uploaded on the afternoon of November 2, 2026 (Hong Kong time).**
->
-> This section is reserved for a genuine headset recording showing passthrough placement, controller interaction, box editing, folding, opening, and export. No real-device demonstration video is included yet.
+**[Watch / download the Quest 3 demo — v0.5](https://github.com/WenceXT/PackFold-MR/releases/download/v0.5/v0.5demo.mp4)**
+
+Recorded on Meta Quest 3. Uploaded on November 2, 2026. The MP4 is hosted with the v0.5 release; open the link to play or download it.
 
 ## What it does
 

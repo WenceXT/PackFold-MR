@@ -1,17 +1,7 @@
-# Real-device demonstration — upload pending
+# Real-device demonstration
 
-**Status: a genuine Quest 3 video has not been uploaded yet.**
+**[Watch / download v0.5demo.mp4](https://github.com/WenceXT/PackFold-MR/releases/download/v0.5/v0.5demo.mp4)**
 
-This directory and the README's demonstration section are reserved for the final headset capture. Keep this placeholder until footage is recorded and reviewed. An editor render must not be presented as a real passthrough recording.
+Platform: Meta Quest 3. App: PackFold MR v0.5. Uploaded: November 2, 2026.
 
-## Suggested recording sequence
-
-1. Show the packaging workbench in Quest 3 passthrough.
-2. Aim at a button, show its highlight, and switch between the three structures.
-3. Drag width/depth/height controls and inspect the resulting geometry.
-4. Grab, move, and rotate the package; demonstrate two-controller scaling.
-5. Open/close the lift-off lid, then fold/unfold the assembly.
-6. Undo/redo a design change and recenter the workspace.
-7. Export the package and show the retrieved SVG/JSON on the PC.
-
-After recording, upload the MP4 through a GitHub Release or an appropriate video host, replace the placeholder with its real link and thumbnail, and record the app version, headset model, and capture date. Avoid adding large raw video files to Git history.
+The video is stored as a GitHub Release asset so the source repository stays small.
